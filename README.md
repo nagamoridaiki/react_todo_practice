@@ -1,3 +1,4 @@
+
 # react-output-router-ts
 
 Next.jsアウトプットサンプル
@@ -8,6 +9,9 @@ TypeScriptを使用
 
 urlはこちら
 https://nextjs-output-only-front.vercel.app/
+
+## バックエンドはこちらのリポジトリ
+https://github.com/nagamoridaiki/go_todo_list_practice
 
 ## 目次
 
