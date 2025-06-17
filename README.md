@@ -40,6 +40,15 @@ npm run dev
 yarn dev
 ```
 
+dockerで起動させる場合は、
+```
+docker-compose up -d
+
+```
+
+http://localhost/
+で起動
+
 ## 2. アプリケーションの仕様
 
 ### 2-1. 仕様
